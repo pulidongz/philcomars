@@ -1,0 +1,33 @@
+#navibar
+{
+	margin-bottom: 0;
+	padding-bottom: 0;
+	height: 120px;
+}
+#map
+{
+	margin-top: 0;
+	padding: 2;
+}
+#logo
+{
+	margin-top: 5;
+}
+
+ul#navcol-2 li i
+{
+	width: auto;
+}
+div#container
+{
+    margin: 100px auto 0 auto;
+}
+
+.dropdown
+{
+    width: 300px;
+}
+
+.container {
+    margin: auto;
+}
